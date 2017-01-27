@@ -79,3 +79,4 @@ D:\APP\MVC+Angular\Ang2MVC\Ang2MVC\bin\Microsoft.Owin.Security.Twitter.xml
 D:\APP\MVC+Angular\Ang2MVC\Ang2MVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\APP\MVC+Angular\Ang2MVC\Ang2MVC\obj\Debug\Ang2MVC.dll
 D:\APP\MVC+Angular\Ang2MVC\Ang2MVC\obj\Debug\Ang2MVC.pdb
+D:\APP\MVC+Angular\Ang2MVC\Ang2MVC\obj\Debug\Ang2MVC.csprojResolveAssemblyReference.cache
