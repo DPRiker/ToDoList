@@ -289,7 +289,9 @@
     <TypeScriptCompile Include="app\app.component.ts" />
     <TypeScriptCompile Include="app\app.module.ts" />
     <TypeScriptCompile Include="app\main.ts" />
+    <TypeScriptCompile Include="app\todo-data.service.spec.ts" />
     <TypeScriptCompile Include="app\todo-data.service.ts" />
+    <TypeScriptCompile Include="app\todo.spec.ts" />
     <TypeScriptCompile Include="app\todo.ts" />
     <TypeScriptCompile Include="environments\enviroment.ts" />
   </ItemGroup>
